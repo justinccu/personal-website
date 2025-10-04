@@ -94,7 +94,7 @@ export default function About() {
           </h2>
           <p className="ps-body typography-ps-body ric-large-8 ric-large-offset-2 ric-small-10 ric-small-offset-1 ps-spacing-large-160 ps-spacing-medium-128 ps-spacing-small-72 text-large-center text-small-start text-2xl md:text-3xl text-black">
             My name is Chen-Han Chin, also known as Justin. <br />
-            I am currently an intern at ITRI during AI stuff. 
+            I am currently an intern at ITRI doing AI stuff. 
           </p>
         </div>
 
